@@ -1,4 +1,4 @@
-# 🧠 Quantum-Enhanced Diabetic Retinopathy Classifier
+# 🧠  AI-powered retinal disease screening system
 
 An advanced **AI-powered retinal disease screening system** for early detection of Diabetic Retinopathy (DR) from fundus images.
 This project combines **transfer learning (InceptionV3, ResNet-152)** with **Explainable AI (Grad-CAM)** and **quantum-inspired feature enhancements** to deliver accurate, interpretable, and real-time predictions via a web interface.
